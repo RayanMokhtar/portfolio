@@ -289,39 +289,57 @@ export const siteContent = {
       ],
     },
     library: {
-      title: 'Bibliothèque stratégique & curiosités',
+      title: 'Bibliothèque stratégique, développement personnel & curiosités',
       intro:
-        'Je cultive une veille active entre IA, stratégie, littérature et culture visuelle pour élargir mes angles d’analyse.',
+        'Je cultive une veille active entre IA, stratégie, développement personnel, histoire et culture visuelle pour élargir mes angles d’analyse et de décision.',
       shelves: [
         {
           title: 'Intelligence, stratégie et futur',
           items: [
-            'La Guerre des intelligences',
-            'Trilogie de Yuval Noah Harari',
-            'Livres IA pour progresser : PyTorch, scikit-learn, inférence',
-            'Conférences IA et engineering productif',
+            'La Guerre des intelligences (Laurent Alexandre) : impact géopolitique et économique de l’IA sur les sociétés.',
+            'Trilogie de Yuval Noah Harari (Sapiens, Homo Deus, 21 leçons pour le XXIe siècle) : vision long terme des civilisations et des ruptures technologiques.',
+            'Livres IA pour progresser concrètement : introductions solides à PyTorch, scikit-learn et à l’ingénierie de l’inférence.',
+            'Conférences IA et engineering productif : veille régulière sur les architectures modernes et les retours d’expérience terrain.',
           ],
         },
         {
-          title: 'Romans et pensée critique',
+          title: 'Développement personnel et performance cognitive',
           items: [
-            'Yasmina Khadra',
-            'Agatha Christie',
-            'Lectures qui entraînent analyse, structure narrative et raisonnement.',
+            'Libérez votre intelligence (Idriss Aberkane) : méthodes pour apprendre plus vite, mieux relier les savoirs et développer une pensée transversale.',
+            'Homo Chaoticus (Didier Raoult) : réflexion sur la complexité, les systèmes instables et l’adaptation dans l’incertitude.',
+            'L’Art de la guerre (Sun Tzu) : principes de stratégie, lecture des rapports de force et anticipation des scénarios.',
+            'Tao Te Ching (Lao Tseu) : discipline intérieure, simplicité stratégique et intelligence du tempo dans l’action.',
+          ],
+        },
+        {
+          title: 'Histoire et civilisations',
+          items: [
+            'Mythologies grecque et romaine : archétypes, récits fondateurs et lecture symbolique des dynamiques humaines.',
+            'Histoire de l’Algérie : trajectoires politiques, culturelles et mémorielles sur le temps long.',
+            'Histoire du Vietnam : guerre, résilience nationale et stratégies d’adaptation.',
+            'Mythologie nordique : visions du destin, du courage et de la transformation.',
+          ],
+        },
+        {
+          title: 'Romans, enquête et esprit critique',
+          items: [
+            'Yasmina Khadra : récits puissants sur la complexité humaine, l’éthique et les tensions du réel.',
+            'Agatha Christie : rigueur de raisonnement, logique d’indices et structuration de l’enquête.',
+            'Lectures qui entraînent l’analyse, la structure narrative et la prise de décision sous contrainte.',
           ],
         },
         {
           title: 'Culture graphique et imaginaire',
           items: [
-            'BD, mangas : SNK, Dragon Ball et autres univers narratifs',
-            'Intérêt pour les mécaniques de monde, de tension et de stratégie.',
+            'BD et mangas : SNK, Dragon Ball et autres univers narratifs à forte intensité stratégique.',
+            'Intérêt pour les mécaniques de monde, de tension, de leadership et de transformation des personnages.',
           ],
         },
         {
           title: 'Curiosité technique',
           items: [
-            'Robotique, systèmes embarqués, prototypage rapide',
-            'Échecs, mathématiques, logique et optimisation de décision',
+            'Robotique, systèmes embarqués, prototypage rapide et expérimentation hardware/software.',
+            'Échecs, mathématiques, logique et optimisation de décision en environnement contraint.',
           ],
         },
       ],
@@ -628,17 +646,35 @@ export const siteContent = {
       ],
     },
     library: {
-      title: 'Strategic Library & Curiosity',
+      title: 'Strategic Library, Personal Growth & Curiosity',
       intro:
-        'I maintain active cross-domain curiosity across AI, strategy, literature and visual culture to sharpen decision-making.',
+        'I maintain active cross-domain curiosity across AI, strategy, personal growth, history and visual culture to sharpen decision-making.',
       shelves: [
         {
           title: 'Intelligence, strategy and foresight',
           items: [
-            'The Age of Artificial Intelligence / strategy-oriented readings',
-            'Yuval Noah Harari trilogy',
-            'AI books: PyTorch, scikit-learn, inference engineering',
-            'AI conferences and practical engineering talks',
+            'La Guerre des intelligences: AI-driven geopolitical and economic shifts.',
+            'Yuval Noah Harari trilogy: long-term civilizational perspective on technology transitions.',
+            'Hands-on AI books: PyTorch, scikit-learn and inference-focused engineering.',
+            'Frequent AI conferences and practical engineering talks.',
+          ],
+        },
+        {
+          title: 'Personal development and cognitive performance',
+          items: [
+            'Libérez votre intelligence (Idriss Aberkane): learning acceleration and cross-domain thinking.',
+            'Homo Chaoticus (Didier Raoult): complexity, uncertainty and adaptive reasoning.',
+            'The Art of War (Sun Tzu): strategic positioning, anticipation and timing.',
+            'Tao Te Ching (Lao Tzu): clarity, discipline and strategic simplicity.',
+          ],
+        },
+        {
+          title: 'History and civilizations',
+          items: [
+            'Greek and Roman mythology: symbolic patterns and foundational narratives.',
+            'History of Algeria: political, cultural and memory dynamics over time.',
+            'History of Vietnam: war, resilience and adaptive strategy.',
+            'Norse mythology: destiny, courage and transformation frameworks.',
           ],
         },
         {
@@ -646,7 +682,7 @@ export const siteContent = {
           items: [
             'Yasmina Khadra',
             'Agatha Christie',
-            'Narratives that train analysis, structure and deduction',
+            'Narratives that train analysis, deduction and constrained decision-making.',
           ],
         },
         {

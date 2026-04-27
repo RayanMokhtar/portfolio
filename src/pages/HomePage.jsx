@@ -47,7 +47,7 @@ function HomePage() {
               <span>{item.period}</span>
             </div>
             <p className="experience-role">{item.role}</p>
-            <ul className="bullet-list">
+            <ul>
               {item.details.map((detail) => (
                 <li key={detail}>{detail}</li>
               ))}
